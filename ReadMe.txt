@@ -1,1 +1,1 @@
-This is the project first created!
+设计模式小例子
